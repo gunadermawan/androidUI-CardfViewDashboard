@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ModernDashboard</string>
+    <string name="hi_guna">Hi, Guna!</string>
+    <string name="my_business">My Business</string>
+    <string name="mail">Mail</string>
+    <string name="attendance">Attendance</string>
+    <string name="analytic">Analytic</string>
+    <string name="meet_up">Meet Up</string>
+    <string name="progress">Progress</string>
+    <string name="career">Career</string>
 </resources>
